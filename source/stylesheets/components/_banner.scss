@@ -1,0 +1,26 @@
+.banner {
+  background-image: linear-gradient(rgba(40, 48, 72, 0.5), rgba(133, 147, 152, 0.5)), url('https://unsplash.it/1000/700/?random');
+  background-size: cover;
+  padding: 150px 0;
+  background-position: center center;
+  h1 {
+  color: white;
+  font-size: 50px;
+  font-weight: bolder;
+  text-shadow: 0 0 1px #000A08;
+  }
+  p {
+  color: white;
+  font-size: 20px;
+  font-weight: lighter;
+  }
+  a {
+  color: white;
+  font-size: 20px;
+  font-weight: lighter;
+  }
+}
+
+
+
+
